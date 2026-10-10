@@ -1,6 +1,7 @@
 # Please Let Me In
 
-**Live site:** [https://please-let-me-in.vercel.app](https://please-let-me-in.vercel.app)
+**Vercel deployment:** [https://hhgoawispr-au1gybyph-workdwivediishivam-6130s-projects.vercel.app](https://hhgoawispr-au1gybyph-workdwivediishivam-6130s-projects.vercel.app)  
+This URL is the successful Production deployment recorded by GitHub for commit `e4ac6b2`. Vercel currently requires sign-in to view it.
 
 Please Let Me In is a small, playful browser game about trying to get past a login form that has its own opinions. The interface escalates from an evasive login button to self-reversing agreements, an intentionally absurd image challenge, and a submit button that needs to be persuaded.
 
@@ -52,4 +53,4 @@ src/style.css    Theme, responsive layout, and animation styles
 
 ## Deployment
 
-The production URL is [please-let-me-in.vercel.app](https://please-let-me-in.vercel.app). The project is built with Vite; Vercel serves the generated `dist` directory. Git pushes to the connected repository trigger deployments. Check the Vercel project’s deployment status if the live site has not updated after a push.
+The Vercel deployment above is attached to this GitHub repository. The project is built with Vite; Vercel serves the generated `dist` directory. Git pushes trigger deployments. The deployment’s access protection is controlled by the Vercel project settings.
